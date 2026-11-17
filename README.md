@@ -15,7 +15,7 @@ your instructions name.
 
 - a GitHub account (free);
 - a Notion account;
-- one of: ChatGPT (the Plus plan; in beta), Claude (the Pro plan) or Grok.
+- one of: ChatGPT (the Plus plan) — the first path, in beta; Claude (the Pro plan) or Grok (a paid plan) — in beta too.
 
 ## Four steps on your phone
 
@@ -92,7 +92,7 @@ ChatGPT, Claude или Grok — с правилами: он ведёт ваши 
 
 - учётная запись GitHub (бесплатная);
 - учётная запись Notion;
-- одно из: ChatGPT (тариф Plus; бета), Claude (тариф Pro) или Grok.
+- одно из: ChatGPT (тариф Plus) — первый путь, в бете; Claude (тариф Pro) или Grok (платный тариф) — тоже в бете.
 
 ### Четыре шага с телефона
 
@@ -172,7 +172,7 @@ Grok — עם כללים: הוא שומר את הפתקים, את נתוני ה�
 
 - חשבון GitHub (חינמי);
 - חשבון Notion;
-- אחד מאלה: ChatGPT (מנוי Plus; עדיין בבטא), Claude (מנוי Pro) או Grok.
+- אחד מאלה: ChatGPT (מנוי Plus) — המסלול הראשון, בבטא; Claude (מנוי Pro) או Grok (מנוי בתשלום) — גם הם בבטא.
 
 ### ארבעה צעדים מהטלפון
 
